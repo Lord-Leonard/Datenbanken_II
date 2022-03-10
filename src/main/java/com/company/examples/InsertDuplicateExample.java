@@ -21,5 +21,4 @@ public class InsertDuplicateExample {
             e.printStackTrace();
         }
     }
-
 }

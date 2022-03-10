@@ -20,7 +20,6 @@ public class Aufgabe_1 {
                     }
                 }
             }
-
         } catch (SQLException e) {
             e.printStackTrace();
         }
